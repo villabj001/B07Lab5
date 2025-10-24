@@ -1,4 +1,4 @@
-package lab5;
+package B07Lab5;
 
 public class Circle {
 	Point centre;
